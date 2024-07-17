@@ -1,0 +1,3 @@
+Something referencing [roxygen2::load_source()].
+
+[roxygen2::load_source()]: https://roxygen2.r-lib.org/reference/load.html

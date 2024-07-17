@@ -1,0 +1,3 @@
+The result from [fnb()].
+
+[fnb()]: https://roxygen2.r-lib.org/articles/reuse.html#child-documents
